@@ -4,5 +4,5 @@ pandas
 numpy
 matplotlib.pyplot
 seaborn
-scipy
+scipy.stat
 warnings
